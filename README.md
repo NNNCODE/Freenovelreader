@@ -18,7 +18,8 @@ Reference Item
 
 # Application Profile
 
-小说阅读器（模块化开发/单项目开发，基于Kotlin+MVVM+Kodein/Hilt+Retrofit+Jsoup+Moshi+Coroutines+Flow+Jetpack+Coil+Room+Mockk等架构实现），用kotlin重写了“任阅”的阅读模块代码，优化，代码逻辑，降低内存使用率。
+
+Novel reader (modular development / monolithic project development, based on Kotlin + MVVM + Kodein/Coroutines + Hilt + Retrofit + Jsoup + Moshi + Coil + Room + Mockk + Flow + Jetpack and other architectural implementations), coding optimization in kotlin, code logic that Reduce memory usage.
 
 Currently there are features:
 
