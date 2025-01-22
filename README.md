@@ -18,7 +18,7 @@ Reference Item
 
 # Application Profile
 
-Novel reader (modular development / single project development, based on Kotlin + MVVM + Kodein / Hilt + Retrofit + Jsoup + Moshi + Coroutines + Flow + Jetpack + Coil + Room + Mockk and other architectural implementations), write the reading module code in kotlin, optimization, the code logic and reduce memory usage.
+Novel reader (modular development / monolithic project development, based on Kotlin + MVVM + Kodein/Coroutines + Hilt + Retrofit + Jsoup + Moshi + Coil + Room + Mockk + Flow + Jetpack and other architectural implementations), coding optimization in kotlin, code logic that Reduce memory usage.
 
 Currently there are features:
 
