@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Reader</string>
+    <string name="book">bookshelf</string>
+    <string name="recommend">recommend</string>
+    <string name="stack">stack</string>
+    <string name="more">more</string>
+    <string name="choose_language">language selection</string>
+    <string name="a_simple">Simplified Chinese</string>
+    <string name="a_traditional">traditional Chinese</string>
+    <string name="update_time">By update time</string>
+    <string name="read_time">According to reading time</string>
+
+    <string name="empty_info"> </string>
+    <string name="common_no_data">No relevant data available!</string>
+    <string name="clear_book">Clear the bookshelf list</string>
+
+    <!--more-->
+    <string name="opinions">Opinions and Feedback</string>
+    <string name="appraise">evaluate</string>
+    <string name="setting">set up</string>
+
+    <!--阅读器-->
+    <string name="contents">contents</string>
+    <string name="light">brightness</string>
+    <string name="cache">Cache</string>
+    <string name="brief">brief introduction</string>
+    <string name="label">label</string>
+
+    <string name="d_cache_num">How many chapters are cached？</string>
+    <string name="d_cache_last_50">The last fifty chapters</string>
+    <string name="d_cache_last_all">All the rest</string>
+    <string name="d_cache_all">all</string>
+
+    <string name="font">font</string>
+    <string name="simple_font">simplified Chinese character</string>
+    <string name="traditional_font">traditional</string>
+    <string name="font_size">word size</string>
+    <string name="font_bg">background</string>
+
+    <string name="book_read_mode_day">night</string>
+    <string name="net_error">Failed to join bookshelf, please check network settings</string>
+    <string name="add_bookmark">Add bookmark</string>
+    <string name="clear_bookmark">clear</string>
+    <string name="download_loading">%d/%d</string>
+    <string name="downloading">Downloading</string>
+
+    <!--  翻页  -->
+    <string name="page_mode">page turning</string>
+    <string name="simulation">simulation</string>
+    <string name="cover">cover</string>
+    <string name="scroll">roll</string>
+    <string name="none">not have</string>
+
+    <string name="book_read_mode_night">day</string>
+
+</resources>

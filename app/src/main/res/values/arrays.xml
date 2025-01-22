@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="novelSort">
+    <item>Other categories</item>
+    <item>Fantasy Fantasy</item>
+    <item>Wuxia Xianxia</item>
+    <item>Urban officialdom</item>
+    <item>Historical military</item>
+    <item>Romantic time travel</item>
+    <item>Paranormal suspense</item>
+    <item>Game competition</item>
+    <item>Youthful BL</item>
+    <item>Science fiction fan</item>
+    <item>Classic bestseller</item>
+    <item>Books and magazines</item>
+  </string-array>
+
+  </resources>
